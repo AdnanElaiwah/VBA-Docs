@@ -54,7 +54,7 @@ Forms!Employees!cmboNames.RowSource = "EmployeeList"
 
 <br/>
 
-The following example shows how to set the **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
+The following example shows how to set the **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** Table are displayed in the **cboDept** combo box.
 
 ```vb
 Private Sub Form_Load()
